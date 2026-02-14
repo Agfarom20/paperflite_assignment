@@ -1,5 +1,5 @@
 # paperflite_assignment
-paperflite assignment - code implementation 
+paperflite assignment - code implementation in java
 
 steps to run:
 - download the zip file
